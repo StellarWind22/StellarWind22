@@ -5,7 +5,4 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CrimsonDawn45&show_icons=true&include_all_commits=true&theme=radical" alt="CrimsonDawn45's github stats" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=CrimsonDawn45&repo=github-readme-stats&theme=radical" />
-</a>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonDawn45&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

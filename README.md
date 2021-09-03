@@ -1,4 +1,4 @@
-### Hi, I'm CrimsonDawn45! 👋
+### Hi, I'm Gannon Burks, AKA CrimsonDawn45! 👋
 - :eyes: I'm interested in Game Dev, VR, Modding, & Machine Learning
 - :seedling: I'm learning Machine Learning with help from Sentdex's [NNfsiX](https://github.com/Sentdex/NNfSiX) 
 - :mailbox: To Reach Me Open an Issue **OR** find me on Discord: **Crimson#6452**

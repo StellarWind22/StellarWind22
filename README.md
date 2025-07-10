@@ -1,4 +1,4 @@
-### Hi, I'm Stella, AKA StellarWind22! 👋
+### Hi, I'm Gannon, AKA StellarWind22! 👋
 - :eyes: I'm interested in Game Dev, VR, Modding, and 3D Printing
 - :mailbox: To Reach Me Open an Issue **OR** find me on Discord: **stellarwind22**
 

@@ -1,4 +1,4 @@
-### Hi, I'm Gannon, AKA StellarWind22! 👋
+### Hi, I'm Stella, AKA StellarWind22! 👋
 - :eyes: I'm interested in Games, Modding, Cool open source stuff, VR, & Various random things!
 - :mailbox: To Reach Me Open an Issue **OR** find me on Discord: **stellarwind22**
 - ❤️ Like my work or want to buy me coffee? Consider joining my [Patreon](patreon.com/crimsondawn45)

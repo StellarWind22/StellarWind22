@@ -1,5 +1,5 @@
 ### Hi, I'm Stella, AKA StellarWind22! 👋
-- :eyes: I'm interested in Games, Modding, Cool open source stuff, VR, & Various random things!
+- :eyes: I'm interested in Games, Modding, VR, & other random stuff!
 - :mailbox: To Reach Me Open an Issue **OR** find me on Discord: **stellarwind22**
 - ❤️ Like my work or want to buy me coffee? [BuyMeACoffee](https://buymeacoffee.com/stellarwind22)
 - 🔗 Links: [Modrinth](https://modrinth.com/user/StellarWind22), [Curse](https://www.curseforge.com/members/stellarwind22/projects), [Nexus](https://next.nexusmods.com/profile/StellarWind22/mods), [YouTube](https://www.youtube.com/channel/UCt8ejCmNbhbnJuCK_lqaorw), [Twitch](https://www.twitch.tv/stellarwind22)
